@@ -122,7 +122,7 @@ Chaque jour, des utilisateurs décrivent exactement le problème que votre outil
 
 #### Tester la démo interactive
 
-La vitrine **[launch-radar-showcase.vercel.app](https://launch-radar-showcase.vercel.app)** tourne entièrement dans le navigateur sur des données simulées (projets et fils fictifs, aucun appel réseau). La **visite guidée** (7 étapes, FR / EN) démarre à la première visite et se relance via le bouton « Visite guidée · Testez tout ».
+La vitrine **[launch-radar-showcase.vercel.app](https://launch-radar-showcase.vercel.app)** tourne entièrement dans le navigateur sur des données simulées (projets et fils fictifs, aucun appel réseau). L'application et la visite guidée sont disponibles en **7 langues majeures de développeurs (Français, English, Español, Русский, 简体中文, 日本語, हिन्दी)** avec un sélecteur instantané en en-tête. La **visite guidée** démarre à la première visite et se relance via le bouton « Visite guidée · Testez tout ».
 
 ---
 
