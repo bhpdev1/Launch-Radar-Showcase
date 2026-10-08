@@ -1,0 +1,25 @@
+Copyright (c) 2026 LaunchRadar. All rights reserved.
+
+PROPRIETARY & CONFIDENTIAL INTELLECTUAL PROPERTY LICENSE
+
+All rights reserved. This repository and all associated software, source code, architecture, algorithms (including the relevance classifier, voice linter, guardrails engine, claim auditor, and source connectors), trade secrets, user interface designs, design tokens, documentation, and trademarks are the exclusive proprietary intellectual property of LaunchRadar and its authors/founders.
+
+1. RESERVATION OF RIGHTS:
+No license, right, title, or interest in or to the software, documentation, or associated intellectual property is granted, assigned, or transferred to any person or entity, except as explicitly stated herein or by express written agreement signed by the authorized rights holders.
+
+2. RESTRICTIONS:
+Without prior express written authorization from the rights holders, you may not:
+(a) Copy, reproduce, redistribute, republish, mirror, or publicly transmit any part of this software, repository, or documentation;
+(b) Decompile, disassemble, reverse engineer, or attempt to derive the source code, architecture, or algorithmic specifications;
+(c) Modify, adapt, translate, or create derivative works based upon this software or its methodology;
+(d) Commercialize, sub-license, rent, lease, or use any portion for commercial advantage, software-as-a-service (SaaS), or competing services;
+(e) Use the software, designs, or proprietary models to train, fine-tune, or benchmark artificial intelligence or machine learning systems without explicit written agreement.
+
+3. TRADEMARKS & BRANDING:
+The LaunchRadar brand name, pixel radar mark, logos, visual motifs, styling tokens, and domain assets are protected proprietary assets. No right or license is granted to use any trademark without prior written permission.
+
+4. CONFIDENTIALITY & EVALUATION:
+If this repository is private, its contents constitute confidential proprietary trade secrets. If public or used as a showcase, it is published strictly for technical evaluation, demonstration, and prospective institutional review. Access or inspection of the showcase does not grant any exploitation rights.
+
+For licensing inquiries, commercial partnerships, or enterprise rights:
+Contact: https://github.com/bhpdev1 / https://launch-radar-showcase.vercel.app

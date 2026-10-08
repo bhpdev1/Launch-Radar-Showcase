@@ -1,0 +1,21 @@
+# OS / editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.swp
+.vscode/
+.idea/
+
+# This repository is documentation-only: never commit code, builds or secrets
+.env*
+node_modules/
+dist/
+.vercel/
+*.py
+*.ts
+*.tsx
+*.js
+*.mjs
+*.ps1
+*.db
