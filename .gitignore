@@ -19,3 +19,8 @@ dist/
 *.mjs
 *.ps1
 *.db
+
+# --- Safety baseline (secrets, deps, caches, OS junk) ---
+__pycache__/
+*.pyc
+*.log
