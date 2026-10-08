@@ -134,7 +134,7 @@ Tous droits réservés © 2026 LaunchRadar. Voir [LICENSE](LICENSE).
 
 ---
 
-### Contact & Programme Pilote
+### Contact & Programme Bêta
 
-- **Showcase Public & Demande d'Accès** : [launch-radar-showcase.vercel.app](https://launch-radar-showcase.vercel.app)
+- **Showcase Public & Accès Bêta** : [launch-radar-showcase.vercel.app](https://launch-radar-showcase.vercel.app)
 - **Auteur** : [github.com/bhpdev1](https://github.com/bhpdev1)

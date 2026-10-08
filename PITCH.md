@@ -99,10 +99,10 @@ Contrairement aux outils commerciaux qui promettent une publication magique part
 
 ---
 
-## 7. Synthèse & Programme Pilote
+## 7. Synthèse & Programme Bêta
 
 > **LaunchRadar réconcilie la puissance de veille de l'IA avec la déontologie, le discernement et l'authenticité humaine.**
 >
-> 🚀 **Rejoindre la Bêta Privée** : Demandez votre accès pilote sur [https://launch-radar-showcase.vercel.app](https://launch-radar-showcase.vercel.app)  
+> 🚀 **Rejoindre la Bêta Privée** : Demandez votre accès bêta sur [https://launch-radar-showcase.vercel.app](https://launch-radar-showcase.vercel.app)  
 > 🌐 **Site Vitrine Interactif** : [https://launch-radar-showcase.vercel.app](https://launch-radar-showcase.vercel.app)  
 > 📂 **Dépôt Public Showcase** : [https://github.com/bhpdev1/Launch-Radar-Showcase](https://github.com/bhpdev1/Launch-Radar-Showcase)
