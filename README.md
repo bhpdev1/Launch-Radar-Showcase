@@ -7,11 +7,11 @@
 **Find the threads where your project is the answer. Draft human replies. Publish yourself.**<br>
 <em>Repère les discussions où ton projet est la réponse. Rédige des réponses humaines. Tu publies toi-même.</em>
 
-<a href="https://launch-radar-showcase.vercel.app"><img src="https://img.shields.io/badge/live%20demo-Vercel-ff4d00?style=flat-square&logo=vercel&logoColor=white&labelColor=161616" alt="Live demo on Vercel"></a>
-<img src="https://img.shields.io/badge/sources-7%20communities-262626?style=flat-square&labelColor=161616" alt="7 sources">
-<img src="https://img.shields.io/badge/reputation%20linter-anti--slop-262626?style=flat-square&labelColor=161616" alt="Reputation linter">
-<img src="https://img.shields.io/badge/posting-human--in--the--loop-262626?style=flat-square&labelColor=161616" alt="Human-in-the-loop">
-<img src="https://img.shields.io/badge/private%20beta-open%20waitlist-ff4d00?style=flat-square&labelColor=161616" alt="Open Waitlist">
+<a href="https://launch-radar-showcase.vercel.app"><img src="https://img.shields.io/badge/live%20demo-Vercel-ff4d00?style=flat-square&logo=vercel&logoColor=white&labelColor=2b2b2b" alt="Live demo on Vercel"></a>
+<img src="https://img.shields.io/badge/sources-7%20communities-4a4a4a?style=flat-square&labelColor=2b2b2b" alt="7 sources">
+<img src="https://img.shields.io/badge/reputation%20linter-anti--slop-4a4a4a?style=flat-square&labelColor=2b2b2b" alt="Reputation linter">
+<img src="https://img.shields.io/badge/posting-human--in--the--loop-4a4a4a?style=flat-square&labelColor=2b2b2b" alt="Human-in-the-loop">
+<img src="https://img.shields.io/badge/private%20beta-open%20waitlist-ff4d00?style=flat-square&labelColor=2b2b2b" alt="Open Waitlist">
 
 <br><br>
 
